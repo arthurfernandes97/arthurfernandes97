@@ -31,7 +31,7 @@ Esse perfil reúne os laboratórios, scripts e anotações que venho produzindo 
 
 *(o skillicons.dev não tem ícone de CentOS disponível — mas é um dos sistemas que uso em VM junto com o Debian)*
 
-## Certificações
+## Certificados
 
 - Networking Basics — Cisco Networking Academy
 - GNU/Linux — Udemy

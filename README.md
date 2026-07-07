@@ -48,4 +48,4 @@ Organizo por tema, para ficar fácil de navegar:
 
 ## Contato
 
-- LinkedIn: [arthur-cesário](https://www.linkedin.com/in/arthur-fernandes-289395272)
+- LinkedIn: [Arthur Fernandes](https://www.linkedin.com/in/arthur-fernandes-289395272)

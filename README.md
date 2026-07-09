@@ -6,17 +6,16 @@
 
 </div>
 
-Trabalho como motorista de APH e estou em transição para a área de TI. Comecei estudando GNU/Linux e redes por conta própria e hoje curso Ciência da Computação, focado em vagas de Suporte Técnico, Analista de Suporte, Infraestrutura, Redes e NOC.
+Atualmente trabalho como motorista de APH e estou em transição de carreira para a área de Tecnologia da Informação. Estou desenvolvendo meus estudos em redes, sistemas operacionais e infraestrutura através de laboratórios práticos, documentando configurações, testes e aprendizados em ambientes como GNU/Linux, Wireshark e Cisco Packet Tracer.
 
 Esse perfil reúne os laboratórios, scripts e anotações que venho produzindo nessa jornada. A ideia é documentar o processo de aprendizado, não só o resultado final.
 
 ## O que estudo
 
-- **GNU/Linux** - Debian e CentOS, praticando em máquina virtual
-- **Redes de Computadores** - fundamentos TCP/IP, análise de tráfego com Wireshark
-- **Segurança da Informação** - conceitos introdutórios e boas práticas
-- **Shell Script** - automatizando tarefas básicas de administração de sistemas
-- **Cisco Packet Tracer** - simulação de redes
+- **Redes de Computadores** - TCP/IP, IPv4/IPv6, VLANs, DHCP, DNS, NAT e análise de tráfego com Wireshark
+- **GNU/Linux** - administração básica em Debian e CentOS, terminal e gerenciamento de serviços
+- **Cisco Packet Tracer** - criação e configuração de topologias, VLANs e roteamento
+- **Segurança da Informação** - fundamentos de segurança e boas práticas
 
 ## Próximos passos
 
@@ -36,12 +35,11 @@ Esse perfil reúne os laboratórios, scripts e anotações que venho produzindo 
 - Redes de Computadores TCP/IP e Wireshark - Udemy
 - Cibersegurança - Udemy
 
-## Repositórios
+## Portfólio
 
-- [Laboratórios Redes](https://github.com/arthurfernandes97/portfolio/tree/main/laboratorios-redes) - exercícios práticos de redes, topologias e configuração
-- [Análise de Tráfego](https://github.com/arthurfernandes97/portfolio/tree/main/analise-de-trafego) - captura e análise de pacotes com Wireshark
-- [Laboratórios Linux](https://github.com/arthurfernandes97/portfolio/tree/main/laboratorios-linux) - laboratórios práticos de administração e permissões em GNU/Linux.
-- [Certificados](https://github.com/arthurfernandes97/portfolio/tree/main/certificados) - certificados e cursos concluídos durante a graduação e estudos complementares.
+Confira meus projetos práticos de redes, infraestrutura e Linux:
+
+[Portfólio de Projetos](https://github.com/arthurfernandes97/portfolio)
 
 ## Contato
 

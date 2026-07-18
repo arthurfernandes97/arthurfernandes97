@@ -30,7 +30,7 @@ Também uso **Cisco Packet Tracer** e **Wireshark** com frequência nos laborat�
 - GNU/Linux - Udemy
 - Redes de Computadores TCP/IP e Wireshark - Udemy
 - Cibersegurança - Udemy
-- Git & GitHub
+- Git & GitHub - Cursa
 
 Certificados completos disponíveis em [certificados](https://github.com/arthurfernandes97/portfolio/tree/main/certificados).
 
